@@ -15,9 +15,9 @@
       state: new
       caller: admin
       short_description: A Test INC
-      description: Brian is testing INC Raising
+      description: Bruno is testing INC Raising
       impact: low
-      urgency: low
+      urgency: medium
       #other:
         #cmdb_ci: lnux100 
     register: inc_number
