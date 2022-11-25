@@ -12,7 +12,7 @@
         username: "{{ snow_user }}"
         password: "{{ snow_pass  }}"
 
-      state: new
+      state: in_progress
       caller: admin
       short_description: A Test INC
       description: Bruno is testing INC Raising
