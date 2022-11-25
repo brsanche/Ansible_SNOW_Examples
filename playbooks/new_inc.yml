@@ -18,8 +18,8 @@
       description: Bruno is testing INC Raising
       impact: low
       urgency: medium
-      #other:
-        #cmdb_ci: lnux100 
+      other:
+        assignment_group: Database 
     register: inc_number
 
   - debug: 
