@@ -16,8 +16,8 @@
       caller: brsanche
       short_description: A Test INC
       description: Bruno is testing INC Raising
-      impact: low
-      urgency: medium
+      #impact: low
+      #urgency: medium
       other:
         assignment_group: Database 
     register: inc_number
